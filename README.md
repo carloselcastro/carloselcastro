@@ -1,7 +1,7 @@
-![Image](image10.png)
+![Image](croped.png)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) -->
 
     
 <!-- <div style="display: inline_block"><br>
@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> -->
  
-<br>
+<!-- <br> -->
  
 <!-- ### Contatos abaixo!
  

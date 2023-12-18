@@ -1,4 +1,4 @@
-![Image](croped.png)
+![Image](image33928.png)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) -->
